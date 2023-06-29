@@ -3,6 +3,6 @@
 	mov r1,#14h
 	
 	mov a,r0
-	mov 00h, 01h //mandatorys
+	mov 00h, 01h //mandatory
 	mov r1,a 
 	end
